@@ -1,3 +1,3 @@
-b = 1010
+x = 42
 
-print(format(b, 'd'))
+print(format(x, 'b'))
