@@ -1,0 +1,1 @@
+print("Iam q3_package/__main__.py")
